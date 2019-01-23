@@ -140,7 +140,7 @@ processeur (par exemple, Préférer un ThreadPool dédié aux tâches liées à 
 ## Références et annexes :
 
 https://www.scala-lang.org/api/current/scala/concurrent/ExecutionContext.html
-https://docs.scala-lang.org/overviews/core/futures.html#the-global-execution-
-context
+
+https://docs.scala-lang.org/overviews/core/futures.html#the-global-execution-context
 
 
